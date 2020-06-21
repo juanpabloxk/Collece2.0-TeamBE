@@ -20,6 +20,3 @@ In Eclipse IDE go to:  **Help &rarr; Install new Software**
 ![](img/add-software-source.png)
 
 
-
-
-
