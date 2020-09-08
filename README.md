@@ -2,6 +2,10 @@
 
 []: https://gitlab.com/xCast/teambe-tutorials/-/blob/master/README_ES.md "View in spanish"
 
+[]: https://gitlab.com/xCast/teambe-tutorials/-/blob/master/README_ES.md	"Spanish"
+
+
+
 ## Installation
 
 In Eclipse IDE go to:  **Help &rarr; Install new Software**
