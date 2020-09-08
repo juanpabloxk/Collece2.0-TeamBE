@@ -1,5 +1,7 @@
 # TeamBE Tutorial
 
+[]: https://gitlab.com/xCast/teambe-tutorials/-/blob/master/README_ES.md "View in spanish"
+
 ## Installation
 
 In Eclipse IDE go to:  **Help &rarr; Install new Software**
