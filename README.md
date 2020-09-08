@@ -1,7 +1,6 @@
 # TeamBE Tutorial
 
-[View in spanish](https://gitlab.com/xCast/teambe-tutorials/-/blob/master/README_ES.md)
-
+[View this tutorial spanish](https://gitlab.com/xCast/teambe-tutorials/-/blob/master/README_ES.md)
 
 ## Installation
 
