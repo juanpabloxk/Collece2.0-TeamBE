@@ -12,7 +12,7 @@ Una vez instalado Eclipse vaya a:  **Ayuda &rarr; Instalar nuevo software**
 
 ![](img/help-install-new-software.png)
 
-**Haga click en el botón  "Añadir", luego llene los campos con la siguiente información**
+**Haga click en el botón  "Add", luego llene los campos con la siguiente información**
 
 | Name       | Location                                |
 | ---------- | --------------------------------------- |
