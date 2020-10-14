@@ -4,7 +4,8 @@ You can also [view this tutorial in spanish](https://gitlab.com/xCast/teambe-tut
 
 ## Eclipse IDE Installation
 
-Download "Eclipse IDE for Java Developers" and perform a normal installation. **Version 2019‑03 R is recommended**
+Download "Eclipse IDE for Java Developers" and perform a normal installation. **Version 2019‑03 R is recommended**.
+
 You can access downloads page from this [link](https://www.eclipse.org/downloads/packages/release/2019-03/r) 
 
 ## Collece / TeamBE Installation
