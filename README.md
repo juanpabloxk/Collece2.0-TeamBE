@@ -22,7 +22,7 @@ In Eclipse IDE go to:  **Help &rarr; Install new Software**
 
 ![](img/add-software-source.png)
 
-Uncheck the options "Group items by category" and "Show only latest versions" check Collece in the list as shown in the image: 
+**Uncheck** the options **"Group items by category"** and **"Show only latest versions"** check Collece in the list as shown in the image: 
 
 ![](img/uncheck-options.png)
 
