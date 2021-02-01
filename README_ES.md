@@ -1,6 +1,6 @@
 # Tutorial TeamBE
 
-También puede [ver este tutorial en inglés](https://gitlab.com/xCast/teambe-tutorials/-/blob/master/README.md)
+También puede [ver este tutorial en inglés](/README.md)
 
 ## Instalación de Eclipse IDE
 
