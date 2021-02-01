@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TeamBE Tutorial
 
 You can also [view this tutorial in spanish](https://gitlab.com/xCast/teambe-tutorials/-/blob/master/README_ES.md)
