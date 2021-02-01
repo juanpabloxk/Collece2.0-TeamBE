@@ -39,4 +39,6 @@ Cuando el IDE se haya reiniciado puede verificar si Collece se instaló correcta
 
 ## Cómo unirse a sesiones de Collece
 
+Para ver una guía completa ingrese [aquí](/JOIN_SERSSIONS_ES.md)
+
 Para conectarse como un cliente de Collece vaya a ***File &rarr; New &rarr; Other*** y en la categoría *COLLECE-2.0* seleccione Cliente, el asistente le ayudará a unirse a la sesión que le corresponda.
