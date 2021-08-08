@@ -42,6 +42,3 @@ Once restarted, you can check if Collece was properly installed clicking
 ## How to join Collece sessions
 
 To join a collece session go to ***File &rarr; New &rarr; Other*** and in the category *COLLECE-2.0* select Client, the wizard will help you join the session you belong to.
-
-
-
