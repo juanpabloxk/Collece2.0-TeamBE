@@ -1,0 +1,1 @@
+# Cómo unirse a sesiones de Collece 2.0

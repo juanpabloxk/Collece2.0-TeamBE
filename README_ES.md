@@ -1,6 +1,9 @@
-# Tutorial TeamBE
+# Tutoriales TeamBE
 
-También puede [ver este tutorial en inglés](https://github.com/xKript/Collece2TeamBE/blob/main/README.md)
+También puede [ver esta página en inglés](https://github.com/xKript/Collece2TeamBE/blob/main/README.md)
+
+* [Instalación](https://github.com/xKript/Collece2TeamBE/blob/main/INSTALLATION_ES.md)
+* [Cómo crear sesiones](https://github.com/xKript/Collece2TeamBE/blob/main/CREATE_SESSIONS_ES)
 
 ## Instalación de Eclipse IDE
 

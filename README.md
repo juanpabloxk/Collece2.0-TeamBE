@@ -1,4 +1,4 @@
-# TeamBE Tutorial
+# TeamBE Tutorials
 
 You can also [view this tutorial in spanish](https://github.com/xKript/Collece2TeamBE/blob/main/README_ES.md)
 

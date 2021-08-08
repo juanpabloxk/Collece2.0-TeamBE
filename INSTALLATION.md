@@ -1,0 +1,1 @@
+# Collece 2.0 installation manual
