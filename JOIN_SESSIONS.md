@@ -1,3 +1,5 @@
+(Go back to home)[/README.md]
+
 ## How to join sessions in Collece 2.0 / TeamBE
 
 Para unirse a una sesión creada previamente simplemente vaya a **File &rarr; New &rarr; Other **

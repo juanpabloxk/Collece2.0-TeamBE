@@ -1,3 +1,5 @@
+(Go back to home)[/README.md]
+
 # Collece 2.0 installation manual
 
 ## Eclipse IDE Installation
