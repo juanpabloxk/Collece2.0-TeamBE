@@ -1,4 +1,4 @@
-[Go to home](/README_ES.md)
+[Go to home](/README.md)
 
 # Collece 2.0 installation manual
 

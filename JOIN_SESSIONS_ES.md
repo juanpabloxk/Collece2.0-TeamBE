@@ -29,7 +29,7 @@ Una vez inicie sesión correctamtente aparecerá un mensaje indicando que se uni
 
 Finalmente haga click en el botón *Finish*, espere unos segundos mientras Collece clona el repositorio correspondiente.
 
-Por defecto Eclipse muestra una pantalla de bienvenida, simplemente haga click en la *x* al lado de Wellcome para cerrarla y poder ver la perspectiva Cliente de Collece
+**NOTA:** Por defecto Eclipse muestra una pantalla de bienvenida, simplemente haga click en la *x* al lado de Wellcome para cerrarla y poder ver la perspectiva Cliente de Collece
 
 ![](img/eclipse-wellcome-screen.png)
 

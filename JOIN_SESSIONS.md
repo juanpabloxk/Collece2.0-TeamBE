@@ -1,41 +1,41 @@
-[Go to home](/README_ES.md)
+[Go to home](/README.md)
 
 ## How to join sessions in Collece 2.0 / TeamBE
 
-Para unirse a una sesión creada previamente simplemente vaya a **File &rarr; New &rarr; Other **
+To join a existing session go to **File &rarr; New &rarr; Other **
 
 ![](img/file-new-other.png)
 
-Luego en la categoría **COLLECE 2.0** seleccione **Client**
+Then, in the **COLLECE 2.0** category select **Client**
 
 ![](img/collece-wizard-category.png)
 
-Aquí puede crear un nuevo usuario o iniciar sesión con uno creado previamente. Si ya tiene un usuario creado seleccione *Log in...* y haga click en siguiente
+Here you can create a new user or log-in with an existing one. If you already have a registered account click *Log in...* and next
 
 ![](img/login-or-signup.png)
 
-Ingrese las credenciales proporcionadas y el servidor y haga clic en *Log in*, espere unos segundos y aparecerá un mensaje indicándole que el inicio de sesión fué exitoso
+Fill in the credential fields and the server, then click *Log in*, wait some few seconds and a message indicating success should appear.
 
 ![](img/login-successful.png)
 
-Después presione *Next* para ver el listado de sesiones disponibles
+Then, click on *Next* to see a list of the available sessions
 
 ![](img/session-list.png)
 
-Seleccione la sessión que le corresponda y haga click en el botón *Join* **Tenga en cuenta que sólo podrá unirse a la sesión en la que esté registrado.** 
-Una vez inicie sesión correctamtente aparecerá un mensaje indicando que se unió a la sesión con éxito.
+Select a session and click *Join* **Keep in mind that you can only join sessions you belong to.** 
+Then, a message should appear indicating that the log-in was sucessful.
 
 ![](img/joined-to-session.png)
 
-Finalmente haga click en el botón *Finish*, espere unos segundos mientras Collece clona el repositorio correspondiente.
+Finally, click on *Finish*, wait a few seconds while Collece clones the corresponding repository
 
-Por defecto Eclipse muestra una pantalla de bienvenida, simplemente haga click en la *x* al lado de Wellcome para cerrarla y poder ver la perspectiva Cliente de Collece
+**NOTE:** By default, Eclipse shows a wellcome screen, to close it simply click the *x* next to Wellcome, so you can see the Collece's client perspective
 
 ![](img/eclipse-wellcome-screen.png)
 
-Si realizó los pasos anteriores con éxito debería ver la siguiente interfaz:
+If you followed this guide correctly, you should see the following user interface:
 
 ![](img/collece-client-perspective.png)
 
 
-**NOTA:** Si cierra por error alguna de las ventanas de la perspectiva Collece Cliente puede recuperarla  en:  **Window &rarr; Perspective &rarr; Open perspective &rarr; Other ** y seleccione **Collece-2.0 (client)**
+**NOTA:** If you close by mistake some of the Collece perspective windows, you can reopen them by clicking:  **Window &rarr; Perspective &rarr; Open perspective &rarr; Other ** y seleccione **Collece-2.0 (client)**
