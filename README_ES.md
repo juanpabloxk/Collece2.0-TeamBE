@@ -1,5 +1,7 @@
 # Tutoriales TeamBE
 
+![banner](img/banner_teambe_en.png)
+
 También puede [ver esta página en inglés](/README.md)
 
 * [Instalación](/INSTALLATION_ES.md)

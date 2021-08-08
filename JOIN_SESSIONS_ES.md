@@ -37,10 +37,4 @@ Si realizó los pasos anteriores con éxito debería ver la siguiente interfaz:
 
 ![](img/collece-client-perspective.png)
 
-
-
 **NOTA:** Si cierra por error alguna de las ventanas de la perspectiva Collece Cliente puede recuperarla  en:  **Window &rarr; Perspective &rarr; Open perspective &rarr; Other ** y seleccione **Collece-2.0 (client)**
-
-
-
-
