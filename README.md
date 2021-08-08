@@ -1,8 +1,8 @@
 # TeamBE Tutorials
 
-You can also [view this page in spanish](/README_ES.md)
+![banner](img/banner_teambe_en.png)
 
-![banner](img/banner_teambe_es.png)
+You can also [view this page in spanish](/README_ES.md)
 
 * [Installation](/INSTALLATION.md)
 * [Download pre-configured packages](https://hosttbe.web.app/downloads)
