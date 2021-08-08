@@ -1,4 +1,4 @@
-(Ir al inicio)[/README_ES.md]
+[Ir al inicio](/README_ES.md)
 
 ## Cómo unirse a sessiones de Collece 2.0 / TeamBE
 

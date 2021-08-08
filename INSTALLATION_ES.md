@@ -1,4 +1,4 @@
-(Ir al inicio)[/README_ES.md]
+[Ir al inicio](/README_ES.md)
 
 # Manual de instalación de Collece 2.0
 
