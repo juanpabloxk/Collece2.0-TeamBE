@@ -2,7 +2,7 @@
 
 ## Cómo unirse a sessiones de Collece 2.0 / TeamBE
 
-Para unirse a una sesión creada previamente simplemente vaya a **File &rarr; New &rarr; Other **
+Para unirse a una sesión creada previamente simplemente vaya a **File** &rarr; **New** &rarr; **Other**
 
 ![](assets/img/file-new-other.png)
 

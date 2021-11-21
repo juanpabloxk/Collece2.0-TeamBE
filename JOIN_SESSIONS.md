@@ -2,7 +2,7 @@
 
 ## How to join sessions in Collece 2.0 / TeamBE
 
-To join a existing session go to **File &rarr; New &rarr; Other **
+To join a existing session go to **File** &rarr; **New** &rarr; **Other**
 
 ![](assets/img/file-new-other.png)
 

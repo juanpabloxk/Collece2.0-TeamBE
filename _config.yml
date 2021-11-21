@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme
 
 title: TEAM-BE Tutorials
-description: Tutorials to use Collece 2.0 along with the TEAM-BE automatic group formation tool/
+description: COLLECE-2.0 (COLLaborative Edition, Compilation and Execution of programs) is an Eclipse plugin that provides a set of features that facilitate the learning of programming through the participation and remote asynchronous collaboration of users when faced with a proposed problem. This page contains tutorials to use Collece 2.0 along with the TEAM-BE automatic group formation tool. 
 logo: /assets/img/logo.png
