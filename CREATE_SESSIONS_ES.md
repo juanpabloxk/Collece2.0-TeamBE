@@ -8,34 +8,34 @@ A continuación se indica como crear sesiones en la instancia de servidor de Col
 
 Para iniciar vaya a **File &rarr; New &rarr; Other**. Luego seleccione **COLLECE-2.0  &rarr; Server**
 
-![](img/collece-wizard-category.png)
+![](assets/img/collece-wizard-category.png)
 
 A continuación, ingrese los parámetros para el servidor. Para la mayoria de casos los ajustes por defecto son suficientes.
 
-![](img/server-options.png)
+![](assets/img/server-options.png)
 
 Presione ***Finish*** y el servidor se iniciará como se indica en la siguiente imagen:
 
-![](img/create-session-server-running.png)
+![](assets/img/create-session-server-running.png)
 
 ## Instancia cliente
 
 Desde otra instancia de Eclipse vaya a **File &rarr; New &rarr; Other**, luego seleccione **COLLECE-2.0  &rarr; Client** y haga click en ***Next***. Luego inicie sesión en una cuenta existente o cree una nueva.
 
 
-![](img/login-or-signup.png)
+![](assets/img/login-or-signup.png)
 
 Para crear una nueva cuenta ingrese los datos requeridos incluyendo la url o IP de la instancia servidor y haga click en ***Registrarse***
 
-![](img/sign-up-options.png)
+![](assets/img/sign-up-options.png)
 
 Presione ***Next*** y verá la lista de sesiones existentes en el servidor. Para crear sesiones nuevas haga click en ***New...***
 
-![](img/session-list.png)
+![](assets/img/session-list.png)
 
 A continuación ingrese los datos requeridos, recuerde marcar el campo ***Formar grupos automáticamente***. También puede importar los ajustes desde un archivo *yml*
 
-![](img/new-session-options.png)
+![](assets/img/new-session-options.png)
 
 El archivo *yml* debe tener ciertos campos específicos. A continuación se muestra un ejemplo:
 ```yml
@@ -50,7 +50,7 @@ private: true
 
 Al presionar ***OK*** se abre la interfaz principal de TEAM-BE donde puede ingresar los datos de los participantes en desde un archivo CSV, escoger el tipo de agrupamiento e ingresar el tamaño del grupo.
 
-![](img/team-be-interface.png)
+![](assets/img/team-be-interface.png)
 
 El orden correcto para formar los grupos es el siguiente:
 

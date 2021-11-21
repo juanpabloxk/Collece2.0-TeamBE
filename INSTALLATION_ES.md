@@ -10,7 +10,7 @@ Descargue "Eclipse IDE for Java Developers" y realice la instalación normalment
 
 Una vez instalado Eclipse vaya a:  **Ayuda &rarr; Instalar nuevo software**
 
-![](img/help-install-new-software.png)
+![](assets/img/help-install-new-software.png)
 
 **Haga click en el botón  "Add", luego llene los campos con la siguiente información**
 
@@ -18,24 +18,24 @@ Una vez instalado Eclipse vaya a:  **Ayuda &rarr; Instalar nuevo software**
 | ---------- | --------------------------------------- |
 | Collece2.0 | https://hosttbe.web.app/collece-feature |
 
-![](img/add-software-source.png)
+![](assets/img/add-software-source.png)
 
 **Desmarque** las opciones **"Group items by category"** y **"Show only latest versions"** y marque Collece en la lista como se indica en la imagen: 
 
-![](img/uncheck-options.png)
+![](assets/img/uncheck-options.png)
 
 Luego continúe normalmente con el asistente de instalación, al instalarse puede mostrarse el siguiente cuadro de diálogo, simplemente haga click en ***Install anyway***
 
-![](img/install-anyway.png)
+![](assets/img/install-anyway.png)
 
 Cuando termine el proceso de instalación el asistente le preguntará si desea reiniciar el IDE para aplicar los cambios, seleccione ***Restart now***
 
-![](img/restart-now.png)
+![](assets/img/restart-now.png)
 
 Cuando el IDE se haya reiniciado puede verificar si Collece se instaló correctamente haciendo click en
 ***File &rarr; New &rarr; Other*** . Debería aparecer la categoría *COLLECE-2.0* como se observa en la imagen.
 
-![](img/collece-cat.png)
+![](assets/img/collece-cat.png)
 
 ## Cómo unirse a sesiones de Collece
 
