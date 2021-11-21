@@ -1,5 +1,3 @@
-# TeamBE Tutorials
-
 ![banner](assets/img/banner_teambe_en.png)
 
 You can also [view this page in spanish](/README_ES.md)
