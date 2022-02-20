@@ -1,5 +1,9 @@
 [Go to home](/README.md)
 
+You can also [view this page in spanish](/INSTALLATION_ES.md)
+
+---
+
 # Collece 2.0 installation manual
 
 ## Eclipse IDE Installation
@@ -7,6 +11,8 @@
 Download "Eclipse IDE for Java Developers" and perform a normal installation. **Version 2019‑03 R is recommended**.
 
 You can access downloads page from this [link](https://www.eclipse.org/downloads/packages/release/2019-03/r) 
+
+---
 
 ## Collece / TeamBE Installation
 
@@ -40,5 +46,7 @@ Once restarted, you can check if Collece was properly installed clicking
 ![](assets/img/collece-cat.png)
 
 ## How to join Collece sessions
+
+[Full tutorial](/JOIN_SESSIONS.md)
 
 To join a collece session go to ***File &rarr; New &rarr; Other*** and in the category *COLLECE-2.0* select Client, the wizard will help you join the session you belong to.

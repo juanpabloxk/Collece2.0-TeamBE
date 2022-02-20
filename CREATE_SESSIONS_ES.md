@@ -1,5 +1,9 @@
 [Ir al inicio](/README_ES.md)
 
+También puede [ver esta página en inglés](/CREATE_SESSIONS.md)
+
+--
+
 # Manual de creación de sesiones en Collece 2.0
 
 A continuación se indica como crear sesiones en la instancia de servidor de Collece 2.0 utilizando la herramienta de formación automática de grupos TEAM-BE
@@ -21,7 +25,6 @@ Presione ***Finish*** y el servidor se iniciará como se indica en la siguiente 
 ## Instancia cliente
 
 Desde otra instancia de Eclipse vaya a **File &rarr; New &rarr; Other**, luego seleccione **COLLECE-2.0  &rarr; Client** y haga click en ***Next***. Luego inicie sesión en una cuenta existente o cree una nueva.
-
 
 ![](assets/img/login-or-signup.png)
 
@@ -60,7 +63,5 @@ El orden correcto para formar los grupos es el siguiente:
 * Hacer click en ***Formar grupos***
 * [Opcional] Exportar los grupos a un archivo PDF
 * Hacer click en ***OK*** para que inicie el proceso de creación de sesiones y sus correspondientes repositorios GIT.
-
-
 
 Al finalizar este proceso las sesiones para cada grupo estarán creadas y disponibles, los participantes podrán unirse a ellas siguiendo los pasos del [tutorial para unirse a sesiones](/JOIN_SESSIONS_ES.md).

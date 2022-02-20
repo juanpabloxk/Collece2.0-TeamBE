@@ -1,5 +1,9 @@
 [Go to home](/README.md)
 
+You can also [view this page in spanish](/JOIN_SESSIONS_ES.md)
+
+---
+
 ## How to join sessions in Collece 2.0 / TeamBE
 
 To join a existing session go to **File** &rarr; **New** &rarr; **Other**
@@ -36,6 +40,5 @@ Finally, click on *Finish*, wait a few seconds while Collece clones the correspo
 If you followed this guide correctly, you should see the following user interface:
 
 ![](assets/img/collece-client-perspective.png)
-
 
 **NOTA:** If you close by mistake some of the Collece perspective windows, you can reopen them by clicking:  **Window &rarr; Perspective &rarr; Open perspective &rarr; Other ** y seleccione **Collece-2.0 (client)**

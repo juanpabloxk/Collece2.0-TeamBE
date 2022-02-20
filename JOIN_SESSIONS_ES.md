@@ -1,5 +1,9 @@
 [Ir al inicio](/README_ES.md)
 
+También puede [ver esta página en inglés](/JOIN_SESSIONS.md)
+
+---
+
 ## Cómo unirse a sessiones de Collece 2.0 / TeamBE
 
 Para unirse a una sesión creada previamente simplemente vaya a **File** &rarr; **New** &rarr; **Other**

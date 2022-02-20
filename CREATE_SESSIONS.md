@@ -1,5 +1,9 @@
 [Go to home](/README.md)
 
+You can also [view this page in spanish](/CREATE_SESSIONS_ES.md)
+
+---
+
 # How to create sessions in Collece 2.0 using TeamBE
 
 Here you will learn to create sessions in Collece 2.0 server instances using the TEAM-BE automatic group formation tool.
@@ -40,7 +44,7 @@ The *yml* file must have some specific fields, here is an example:
 ```yml
 name: TeamBE Demo Sesion
 type: private
-problem-statement: Este es un enunciado de prueba (puede usar código HTML)
+problem-statement: This is a test statement (you can use HTML code here)
 date-start: 2021-02-01T00:00:00COT
 date-end: 2025-03-30T00:00:00COT
 teambe-enabled: true
